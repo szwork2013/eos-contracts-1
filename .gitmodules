@@ -1,0 +1,8 @@
+[submodule "musl/upstream"]
+	path = musl/upstream
+	url = https://github.com/EOSIO/musl.git
+	branch = eosio
+[submodule "libc++/upstream"]
+	path = libc++/upstream
+	url = https://github.com/EOSIO/libcxx.git
+	branch = eosio
